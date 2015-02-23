@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/noonien/powermanager"
+	"github.com/noonien/pm"
 )
 
 var (
